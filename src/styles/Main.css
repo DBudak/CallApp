@@ -1,0 +1,38 @@
+div.item{
+    border-bottom: 1px solid #dadada;
+    margin: 10px 0;
+    padding:5px 10px;
+}
+form.form-horizontal {
+    width: 90%;
+    margin: 0 auto;
+}
+.call-btn, .message-btn {
+    float: right;
+    color: white;
+    border: none;
+    margin: 0 4px;
+    padding: 10px 15px;
+    border-radius: 20px;
+}
+.call-btn{
+    background:#009688;
+}
+.call-btn:hover{
+    background: hsla(174, 100%, 40%, 1);
+}
+.message-btn {
+    background: #FF9800;
+}
+.message-btn:hover{
+    color:white;
+    background: hsla(36, 100%, 60%, 1);
+}
+.alert{
+    display:none;
+}
+form.form-horizontal {
+    padding: 40px;
+    background: #f1f1f1;
+    border-radius: 10px;
+}
